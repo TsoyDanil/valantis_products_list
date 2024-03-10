@@ -1,0 +1,12 @@
+form {
+    display: flex;
+    margin-bottom: 15px;
+    width: 100%;
+    justify-content: space-evenly;
+}
+
+.inputForm {
+    display: flex;
+    flex-direction: column;
+    row-gap: 5px;
+}
